@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SecureVault</string>
+    <string name="securevault">SecureVault</string>
+    <string name="logo">logo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="do_not_have_account">Do not have account ?</string>
+    <string name="register">REGISTER</string>
+    <string name="forgot_password">FORGOT PASSWORD</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="registered_successfully">Registered Successfully</string>
+    <string name="registration_failed">Registration Failed</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_mobile">Enter mobile number</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_confirm_password">Enter confirm password</string>
+    <string name="password_not_match">Password mis-matched</string>
+    <string name="login_successful">Login Successful</string>
+    <string name="authentication_failed">Authentication failed</string>
+</resources>
