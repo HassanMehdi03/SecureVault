@@ -2,5 +2,13 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#EEEDEB</color>
-    <color name="background_color">#2F3645</color>
+    <color name="background_color">#31363F</color>
+    <color name="bottom_navbar_color">#151515</color>
+    <color name="navbar_color">#151515</color>
+    <color name="action_bar_color">#151515</color>
+    <color name="dialog_background_color">#37383A</color>
+    <color name="floating_button_color">#EEEEEE</color>
+    <color name="navbar_indicator_color">#153448</color>
+    <color name="switch_color">#EEEDEB</color>
+    <color name="logout_button_color">#1B3C73</color>
 </resources>

@@ -134,10 +134,11 @@
         app:layout_constraintTop_toBottomOf="@id/btnSignin"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
-        android:layout_marginStart="80dp"
+        android:layout_marginStart="65dp"
         android:layout_marginTop="@dimen/margin_top"
         android:id="@+id/tvAccount"
         android:textColor="@color/white"
+        android:padding="2dp"
         />
     <TextView
         android:layout_width="wrap_content"
@@ -145,11 +146,12 @@
         android:text="@string/register"
         app:layout_constraintTop_toBottomOf="@id/btnSignin"
         android:textStyle="bold"
-        android:textColor="@color/white"
+        android:textColor="#EBCA88"
         app:layout_constraintStart_toEndOf="@id/tvAccount"
         android:layout_marginTop="@dimen/margin_top"
         android:id="@+id/tvRegister"
         android:layout_marginStart="5dp"
+        android:padding="2dp"
         />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

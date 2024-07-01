@@ -3,11 +3,13 @@ package com.example.securevault;
 public class UserInfo
 {
     private String name,mobile,email,password;
+    int id;
 
     public UserInfo() {
     }
 
-    public UserInfo(String name, String mobile, String email, String password) {
+    public UserInfo(int id,String name, String mobile, String email, String password) {
+        this.id=id;
         this.name = name;
         this.mobile = mobile;
         this.email = email;
@@ -17,7 +19,13 @@ public class UserInfo
     public String getName() {
         return name;
     }
+    public int getId() {
+        return id;
+    }
 
+    public void setId(int id) {
+        this.id = id;
+    }
     public void setName(String name) {
         this.name = name;
     }

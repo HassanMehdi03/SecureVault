@@ -15,8 +15,8 @@ import com.google.android.material.textfield.TextInputEditText;
 
 public class Signup extends AppCompatActivity {
 
-    TextInputEditText etName,etMobile,etEmail,etPassword,etCPassword;
-    Button btnSignup;
+    private TextInputEditText etName,etMobile,etEmail,etPassword,etCPassword;
+    private Button btnSignup;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
